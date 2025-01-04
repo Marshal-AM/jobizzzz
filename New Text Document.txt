@@ -1,4 +1,4 @@
 task createJar(type: Jar){
     from sourceSets.main.output
-    archiveFileName = "my-proj"
+    archiveFileName = "my-project.jar"
 }
